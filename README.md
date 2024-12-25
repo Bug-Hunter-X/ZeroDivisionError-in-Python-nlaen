@@ -1,0 +1,1 @@
+This repository contains an example of a ZeroDivisionError in Python and its solution. The bug.py file demonstrates a function that can raise a ZeroDivisionError. The bugSolution.py file shows how to handle this error using exception handling.
